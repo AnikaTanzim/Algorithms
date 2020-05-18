@@ -3,10 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/F:/coursera/Algorithms/src/algorithms/brute_force_alogorithm.java</file>
             <file>file:/F:/coursera/Algorithms/src/algorithms/Algorithms.java</file>
-            <file>file:/F:/coursera/Algorithms/src/algorithms/QuickUnionUF.java</file>
-            <file>file:/F:/coursera/Algorithms/src/algorithms/QuickFindUF.java</file>
-            <file>file:/F:/coursera/Algorithms/src/algorithms/UnionFind_DynamicConnectivity.java</file>
+            <file>file:/F:/coursera/Algorithms/src/algorithms/FixedCapacity.java</file>
+            <file>file:/F:/coursera/Algorithms/src/algorithms/FindLargestUF.java</file>
+            <file>file:/F:/coursera/Algorithms/src/algorithms/Stack.java</file>
+            <file>file:/F:/coursera/Algorithms/src/algorithms/LinkedLIst.java</file>
+            <file>file:/F:/coursera/Algorithms/src/algorithms/BinarySearch.java</file>
         </group>
     </open-files>
 </project-private>
